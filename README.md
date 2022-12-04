@@ -1,1 +1,1 @@
-# LPG-Liquid-Petrolium-Gas-Alarm
+# LPG-Liquid-Petroleum-Gas-Alarm
